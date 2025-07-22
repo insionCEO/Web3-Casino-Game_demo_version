@@ -33,7 +33,7 @@ This project showcases the core logic behind a simple casino game. It’s design
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/HyperBuildX/Web3-Casino-Game-Demo
+   git clone https://github.com/insionCEO/Web3-Casino-Game-Demo
    cd Web3-Casino-Game-Demo
 
 
@@ -65,6 +65,6 @@ You're welcome to **enhance the interface** and update the visuals based on your
 ## 📫 Contact
 
 If you have any questions or would like a more customized app for specific use cases, please feel free to contact us at the contact information below.
-- E-Mail: hyperbuildx@adamglab.dev
+- E-Mail: insionCEO@adamglab.dev
 - Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
 
