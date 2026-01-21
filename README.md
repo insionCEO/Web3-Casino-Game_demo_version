@@ -62,10 +62,6 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 This project is currently a **demo version**. While the **backend logic is fully functional**, the **UI/UX design is intentionally basic** and kept minimal for demonstration purposes.
 You're welcome to **enhance the interface** and update the visuals based on your own creative and professional design ideas.
 
-## 📫 Contact
 
-If you have any questions or would like a more customized app for specific use cases, please feel free to contact us at the contact information below.
-
-**Telegram**: [@insionCEO](https://t.me/insionCEO)
 
 
